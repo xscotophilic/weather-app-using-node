@@ -1,7 +1,5 @@
 # WeatherApp using node.js
 
-## Simple node app For Weather.
-
 ### External links/APIs used in App are:
 
 #### https://console.developers.google.com/apis/
