@@ -7,7 +7,7 @@
 
 ### How to use:
 
-#### Clone repository
-#### locate in downloaded repository
-#### open terminal/cmd in that folder
-#### use $node index.js --help
+##### Clone repository
+##### locate in downloaded repository
+##### open terminal/cmd in that folder
+##### use $node index.js --help
